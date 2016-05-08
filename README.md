@@ -7,6 +7,7 @@
 ## Review Papers
 ### CTR/CVR estimation
 #### Logistic Regression
-* []
+* [Post-click ](http://people.csail.mit.edu/romer/papers/NGDAdvertisingWSDM12.pdf) by Rómer Rosales, Haibin Cheng, Eren Manavoglu. Yahoo Labs, WSDM’12. 
 #### Gradient Boosting Tree
+
 #### Bayesian Network
