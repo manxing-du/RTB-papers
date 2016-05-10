@@ -9,7 +9,9 @@
 * [CVR Post-Click Conversion Modeling and Analysis for Non-Guaranteed Delivery Display Advertising] (http://people.csail.mit.edu/romer/papers/NGDAdvertisingWSDM12.pdf) by Rómer Rosales, Haibin Cheng, Eren Manavoglu. Yahoo Labs, WSDM12
 **Keywords:** Automated feature analysis (compound features), model update frequency. **Model:** Logistic Regression
 * [CVR Finding the Right Consumer: Optimizing for Conversion in Display Advertising Campaigns] (https://www.researchgate.net/profile/Yandong_Liu/publication/221520060_Finding_the_right_consumer_optimizing_for_conversion_in_display_advertising_campaigns/links/02e7e51ae50d869ce1000000.pdf) by Yandong Liu, Sandeep Pandey, Deepak Agarwal, Vanja Josifovski. Yahoo Labs, WSDM12. **Keywords:** Campaign metadata, learning across campaigns. **Model:** Logistic Regression, Linear SVM, Naive Bayes
-* [CVR Estimating Conversion Rate in Display Advertising from Past Performance Data ] (https://pdfs.semanticscholar.org/379a/1c6d825f957f030cda8babc519738c224ca3.pdf) by Kuang-chih Lee, Burkay Orten, Ali Dasdan, Wentong Li, Turn, KDD12. **Keywords:** Data hierarchies **Model:** Logistic Regression
+* [CVR Estimating Conversion Rate in Display Advertising from Past Performance Data ] (https://pdfs.semanticscholar.org/379a/1c6d825f957f030cda8babc519738c224ca3.pdf) by Kuang-chih Lee, Burkay Orten, Ali Dasdan, Wentong Li, Turn, KDD, 2012. **Keywords:** Data hierarchies **Model:** Logistic Regression
+* [CTR Practical Lessons from Predicting Clicks on Ads at Facebook] (https://pdfs.semanticscholar.org/daf9/ed5dc6c6bad5367d7fd8561527da30e9b8dd.pdf) Facebook, ADKDD 2014, **Keywords:**Online training, Downsampling training, Model freshness and calibration **Model:** GBRT combined with Logistic Regression
+
 
 ### Click fraud
 
