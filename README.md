@@ -17,7 +17,6 @@
 * [CTR Click-through Prediction for Advertising in Twitter Timeline] (http://www-personal.umich.edu/~lichengz/papers/kdd2015-li.pdf) Twitter, KDD15 **Keywords:** Online learning
 * [CTR CTR Prediction for Contextual Advertising: Learning-to-Rank Approach］ (http://dl.acm.org/citation.cfm?id=2501978) Yahoo, ADKDD13 **Keywords:**use only clicks for training  **Models:** SVM, LR
 * [CTR A Two-Stage Ensemble of Diverse Models for Advertisement Ranking in KDD Cup 2012] (http://www.csie.ntu.edu.tw/~htlin/paper/doc/wskdd12cup.pdf) KDD cup 2012. **Keywords:** Ensemble models **Models:** LR, Naive Bayes, Ridge Regression, SVR, RLR, RankNet, CRR, Regression Based MF, Ranking Based MF.
-* 
 
 
 ### Click fraud
