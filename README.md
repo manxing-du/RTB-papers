@@ -17,8 +17,18 @@
 * [CTR Click-through Prediction for Advertising in Twitter Timeline] (http://www-personal.umich.edu/~lichengz/papers/kdd2015-li.pdf) Twitter, KDD15 **Keywords:** Online learning
 * [CTR CTR Prediction for Contextual Advertising: Learning-to-Rank Approach］ (http://dl.acm.org/citation.cfm?id=2501978) Yahoo, ADKDD13 **Keywords:**use only clicks for training  **Models:** SVM, LR
 * [CTR A Two-Stage Ensemble of Diverse Models for Advertisement Ranking in KDD Cup 2012] (http://www.csie.ntu.edu.tw/~htlin/paper/doc/wskdd12cup.pdf) KDD cup 2012. **Keywords:** Ensemble models **Models:** LR, Naive Bayes, Ridge Regression, SVR, RLR, RankNet, CRR, Regression Based MF, Ranking Based MF.
+* [User Response Learning for Directly Optimizing Campaign Performance in Display Advertising](http://apex.sjtu.edu.cn/public/files/papers/20160817/opt-ctr-bid.pdf) CIKM, 2016
+* [A convolutional click prediction model](http://www.nlpr.ia.ac.cn/English/irds/People/sw/Liu2015CCPM.pdf) CIKM, 2015
+* 
 
 
 ### Click fraud
 ### Bidding strategies
+
+* [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising] (https://arxiv.org/pdf/1305.3011.pdf) Turn, ACM, 2013
+* [Programmatic buying bidding strategies with win rate and winning price estimation in real time mobile advertising] (http://link.springer.com/chapter/10.1007%2F978-3-319-06608-0_37) PAKDD, 2014
+* [Predicting Winning Price in Real Time Bidding with Censored Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/win-price-pred.pdf), ACM, 2015
+* [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160817/functional-bid-lands.pdf), ECML/PKDD 2016
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-lands.pdf) KDD, 2016
+
 
