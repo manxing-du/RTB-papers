@@ -19,7 +19,7 @@
 * [CTR A Two-Stage Ensemble of Diverse Models for Advertisement Ranking in KDD Cup 2012] (http://www.csie.ntu.edu.tw/~htlin/paper/doc/wskdd12cup.pdf) KDD cup 2012. **Keywords:** Ensemble models **Models:** LR, Naive Bayes, Ridge Regression, SVR, RLR, RankNet, CRR, Regression Based MF, Ranking Based MF.
 * [User Response Learning for Directly Optimizing Campaign Performance in Display Advertising](http://apex.sjtu.edu.cn/public/files/papers/20160817/opt-ctr-bid.pdf) CIKM, 2016
 * [A convolutional click prediction model](http://www.nlpr.ia.ac.cn/English/irds/People/sw/Liu2015CCPM.pdf) CIKM, 2015
-* 
+* [Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks](https://arxiv.org/pdf/1404.5772v3.pdf) AAAI, 2014
 
 
 ### Click fraud
