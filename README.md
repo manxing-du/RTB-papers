@@ -38,3 +38,8 @@
 * [Optimal Real-Time Bidding for Display Advertising](http://www0.cs.ucl.ac.uk/staff/Weinan.Zhang/papers/ortb-kdd.pdf) KDD, 2014
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-lands.pdf) KDD. 2011
 
+
+### Behaviour Modelling related
+* [Understanding Behaviors that lead to Purchasing: A case Study of Pinterest] (https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf) KDD, 2016 
+* [SEISMIC: A Self-Exciting Point Process Model for Predicting Tweet Popularity] (http://snap.stanford.edu/seismic/seismic.pdf) KDD, 2016
+
