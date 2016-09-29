@@ -29,7 +29,7 @@
 * [Programmatic buying bidding strategies with win rate and winning price estimation in real time mobile advertising] (http://link.springer.com/chapter/10.1007%2F978-3-319-06608-0_37) PAKDD, 2014
 * [Predicting Winning Price in Real Time Bidding with Censored Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/win-price-pred.pdf), ACM, 2015
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160817/functional-bid-lands.pdf), ECML/PKDD 2016
-* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-lands.pdf) KDD, 2016
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://www.kdd.org/kdd2016/papers/files/adp0028-zhangA.pdf) KDD, 2016
 * [Bid Optimizing and Inventory Scoring in Targeted Online Advertising] (http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lin-bid.pdf), KDD 2012
 * [Statistical Arbitrage Mining for Display Advertising] (http://arxiv.org/abs/1506.03837) KDD, 2015
 * [Budget Optimization for Sponsored Search: Censored Learning in MDPs](https://www.cis.upenn.edu/~mkearns/papers/ssbudget.pdf) UAI, 2012
