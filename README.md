@@ -21,8 +21,6 @@
 * [A convolutional click prediction model](http://www.nlpr.ia.ac.cn/English/irds/People/sw/Liu2015CCPM.pdf) CIKM, 2015
 * [Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks](https://arxiv.org/pdf/1404.5772v3.pdf) AAAI, 2014
 
-
-### Click fraud
 ### Bidding strategies
 
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising] (https://arxiv.org/pdf/1305.3011.pdf) Turn, ACM, 2013
